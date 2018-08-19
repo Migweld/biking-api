@@ -1,0 +1,9 @@
+{
+  "name": "curvyroutes",
+  "version": "0.1.0",
+  "description": "Curvyroutes API",
+  "main": "index.js",
+  "repository": "https://github.com/Migweld/biking-api",
+  "author": "Craig Thompson",
+  "license": "MIT"
+}
